@@ -28,7 +28,7 @@ The aim of this project is to demonstrate how **data visualization tools help tr
 
 ## Project Structure
 ```
-energy-consumption-powerbi-dashboard/
+Energy-Consumption-and-Trend-Analysis-PowerBi-Dashboard/
 ├── Data/
 │   └── energy_consumption_dataset.xlsx        # Dataset used for analyzing energy consumption across cities, buildings, and energy types
 │
