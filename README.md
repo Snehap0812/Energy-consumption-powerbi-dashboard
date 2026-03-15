@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project presents an interactive **Energy Consumption Dashboard** built using Power BI.
+This project presents an interactive **Energy Consumption and Trend Analysis Dashboard** built using Power BI.
 The dashboard analyzes energy usage across different **cities, buildings, and consumption types** such as electricity, gas, and water.
 
 The aim of this project is to demonstrate how **data visualization tools help transform raw data into meaningful insights** for better decision-making.
@@ -28,23 +28,24 @@ The aim of this project is to demonstrate how **data visualization tools help tr
 
 ## Project Structure
 ```
-energy-consumption-dashboard
-
+energy-consumption-powerbi-dashboard/
+├── Data/
+│   └── energy_consumption_dataset.csv        # Dataset used for analyzing energy consumption across cities, buildings, and energy types
 │
+├── Dashboard/
+│   └── energy_consumption_and_trend_analysis_powerbi_dashboard.pbix   # Main Power BI dashboard file containing all visualizations and analysis
+│
+├── Images/
+│   ├── Overview.png        # Screenshot of the overview page showing total cost, total units consumed, and overall trends
+│   ├── Water.png           # Screenshot displaying water consumption analysis
+│   ├── Gas.png             # Screenshot showing gas consumption distribution
+│   └── Electricity.png     # Screenshot highlighting electricity usage trends
+│
+├── docs/
+│   └── energy_consumption_and_trend_analysis_ppt.pdf   # Project presentation explaining objectives, methodology, and insights
+│
+└── README.md               # Documentation file describing the project, dashboard features, and repository structure
 
-├── data
-│   └── energy_consumption_dataset.csv
-
-├── dashboard
-│   └── energy_consumption_dashboard.pbix
-
-├── images
-│   └── dashboard_preview.png
-
-├── docs
-│   └── energy_consumption_project.pdf
-
-└── README.md
 ```
 ## Dashboard Features
 
