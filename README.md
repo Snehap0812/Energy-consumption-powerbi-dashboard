@@ -41,7 +41,7 @@ energy-consumption-powerbi-dashboard/
 │   ├── Gas.png             # Screenshot showing gas consumption distribution
 │   └── Electricity.png     # Screenshot highlighting electricity usage trends
 │
-├── docs/
+├── Docs/
 │   └── energy_consumption_and_trend_analysis_ppt.pdf   # Project presentation explaining objectives, methodology, and insights
 │
 └── README.md               # Documentation file describing the project, dashboard features, and repository structure
