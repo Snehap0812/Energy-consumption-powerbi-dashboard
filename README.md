@@ -30,7 +30,7 @@ The aim of this project is to demonstrate how **data visualization tools help tr
 ```
 energy-consumption-powerbi-dashboard/
 ├── Data/
-│   └── energy_consumption_dataset.csv        # Dataset used for analyzing energy consumption across cities, buildings, and energy types
+│   └── energy_consumption_dataset.xlsx        # Dataset used for analyzing energy consumption across cities, buildings, and energy types
 │
 ├── Dashboard/
 │   └── energy_consumption_and_trend_analysis_powerbi_dashboard.pbix   # Main Power BI dashboard file containing all visualizations and analysis
